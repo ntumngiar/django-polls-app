@@ -1,0 +1,70 @@
+Wagtail Website Onboarding - Rene
+
+User Story
+
+As a WebApps 🍦 member, so that I can hit the ground running when I join webApps ⛵ I need context about the website project.
+
+Details
+
+In order to work on the WebApps team, we want you to be familiar with the code and our development goals. Complete the following (should take around a week to complete).
+
+Orientation Tasks
+
+Tutorials and intros on Monday: https://www.youtube.com/@mondaydotcom
+
+Work through the Django 5.2 tutorial (devs only):   https://docs.djangoproject.com/en/5.2/intro/
+
+Work through tutorial Part 8 (you can skip the "advanced tutorial")
+
+Create a public github repository for publishing your progress
+
+Github: This project is OPEN SOURCE. NO SECRETS in the code.
+
+Get added to the Webapps repo - message @Jim deVos with your github handle
+
+Read through the ADR
+
+Build sandbox environment
+
+Wagtail videos: https://www.youtube.com/@wagtailcms
+
+Read The Zen of Wagtail This is a short read that is helpful for giving an idea of the philosophy behind wagtail.
+
+Wagtail Tutorial I (devs only) https://docs.wagtail.org/en/stable/getting_started/tutorial.html
+
+Complete the first tutorial, which is a quick walkthrough of how to install wagtail and make your first app.
+
+Create a public github repository for publishing your progress
+
+Wagtail Tutorial II (devs only) https://docs.wagtail.org/en/stable/tutorial/index.html
+
+Complete the second wagtail tutorial at which covers more of Wagtail's features & workflow.
+
+Create a public github repository for publishing your progress
+
+Read:
+
+Wagtail documentation:
+Devloper Documentation
+
+Wagtail training guide (WIP) Wagtail Admin Training Guide.pptx
+
+Modernizing a federal government website with user-centered design | Open Data, Design, & Development at the Office of Natural Resources Revenue
+
+Definition of Done for this team in Monday stories
+
+Read the policy and about what "open source code" means to the government OSS
+
+Review stories on sprint board for context
+
+WEBAPSS US TAX COURT FYI in Monday
+
+The Zen of Wagtail: https://docs.wagtail.org/en/stable/getting_started/the_zen_of_wagtail.html
+
+https://github.com/ustaxcourt/website-wagtail/blob/main/CONTRIBUTING.md
+
+Joining the new team
+
+Once you have completed all the above, you will recieve an invite to start joining the ⛵webapps team. We expect that you will migrate over one by one as you complete this assignment, as opposed to all starting on the same day.
+
+Pre-refinement Questions
